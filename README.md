@@ -5,7 +5,7 @@ An app for managing and automatically applying memory timings profiles using Mem
 ## Requirements
 
 - Windows 10/11 (64-bit)
-- [MemTweakIt](https://www.techpowerup.com/download/asus-memtweakit/) by ASUS/CPUID
+- [MemTweakIt](https://rog.asus.com/articles/overclocking/how-to-use-memtweakit/) by ASUS ROG (download from your motherboard's support page on [asus.com](https://www.asus.com) under Drivers & Tools > Utilities)
 - Must run as Administrator (MemTweakIt loads a kernel driver)
 
 ## Setup
