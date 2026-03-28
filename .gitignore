@@ -1,0 +1,18 @@
+# Built binary
+*.exe
+*.obj
+
+# MemTweakIt (third-party, not redistributable)
+MemTweakIt.exe
+cpuidsdk.dll
+cpuidsdk64.dll
+UpdateHelper.dll
+
+# User config (machine-specific)
+timings.ini
+timings_discovered.ini
+
+# Development artifacts
+*.log
+*.py
+PLAN.md
